@@ -10,6 +10,6 @@ the value of 3 to the power 27 is 7625597484987
 
 the value of (134533+6889980-84849) to the power 3 is 334206837441656786944
 
-the average time per meter is 5.69620253165 min/meter.
+the average time per meter is 5696.20253165 min/meter.
 the shrotest distance btween me and ma friend is 0.621371 miles.
 >>> 

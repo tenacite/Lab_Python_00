@@ -9,7 +9,7 @@ print ''
 f=(134533+6889980-84849)**3
 print 'the value of (134533+6889980-84849) to the power 3 is',f
 print''
-g=45/7.9
+g=45/7.9*1000
 print 'the average time per meter is',g,'min/meter.'
 a=((4.7**2+9.4**2)**(1/2))*0.621371
 print 'the shrotest distance btween me and ma friend is',a,'miles.'
